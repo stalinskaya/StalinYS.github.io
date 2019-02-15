@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/StalinYS/StalinYS.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a third year student in BSU (School of Business). My specialization is Information Resource Management. As my education is connected with programming and economics both, I decided to focus more on my technical skills and went to EMAP Systems training program as a .NET developer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I studied in the USA (Troy University) for half a year as an exchange student
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Made a website for a company that provides foreign language courses using HTML/CSS (exam project)
+2. Participated in VandyHacks hackathon
+3. Made a descktop application for document generation as a research paper project
+4. Made a website for posting labs using ASP.NET
 
 ```markdown
-Syntax highlighted code block
+### Interests
 
-# Header 1
-## Header 2
-### Header 3
+- **MOOCing** - always search for online courses to improve my knowledge
+- **Learning about new languages and cultures** - I travel a lot and I've been to 12 countries so far, lived in another country forhalf a year and I maintain this passion for exploring 
+- **Volleyball and yoga** - Sport is an essential part of my daily life but these kinds are my favorite ones
 
-- Bulleted
-- List
+### Links for EPAM Training
 
-1. Numbered
-2. List
+For Codewars profile see [Codewars](https://www.codewars.com/users/StalinYS).
+For GitHub profile see [GitHub](https://github.com/StalinYS).
 
-**Bold** and _Italic_ and `Code` text
+### Contacts
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StalinYS/StalinYS.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Facebook [Facebook](https://www.facebook.com/stalinskaya.yana)
+Instagram [Instagram](https://www.instagram.com/stalinskaiaiana/)
+LinkedIn [LinkedIn](https://www.linkedin.com/in/yana-stalinskaya-254750155/)
