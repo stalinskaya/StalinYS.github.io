@@ -1,6 +1,6 @@
 ## About me
 
-I'm a third year student in BSU (School of Business). My specialization is Information Resource Management. As my education is connected with programming and economics both, I decided to focus more on my technical skills and went to EMAP Systems training program as a .NET developer.
+I'm a third year student in BSU (School of Business). My specialization is Information Resource Management. As my education is connected with programming and economics both, I decided to focus more on my technical skills and went to EPAM Systems training program as a .NET developer.
 
 I studied in the USA (Troy University) for half a year as an exchange student
 
