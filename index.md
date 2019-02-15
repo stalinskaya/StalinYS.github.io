@@ -14,7 +14,7 @@ I studied in the USA (Troy University) for half a year as an exchange student
 ### Interests
 
 - **MOOCing** - always search for online courses to improve my knowledge
-- **Learning about new languages and cultures** - I travel a lot and I've been to 12 countries so far, lived in another country forhalf a year and I maintain this passion for exploring 
+- **Learning about new languages and cultures** - I travel a lot and I've been to 12 countries so far, lived in another country for half a year and I maintain this passion for exploring 
 - **Volleyball and yoga** - Sport is an essential part of my daily life but these kinds are my favorite ones
 
 ### Links for EPAM Training
