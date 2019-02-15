@@ -11,7 +11,6 @@ I studied in the USA (Troy University) for half a year as an exchange student
 3. Made a descktop application for document generation as a research paper project
 4. Made a website for posting labs using ASP.NET
 
-```markdown
 ### Interests
 
 - **MOOCing** - always search for online courses to improve my knowledge
@@ -20,11 +19,11 @@ I studied in the USA (Troy University) for half a year as an exchange student
 
 ### Links for EPAM Training
 
-For Codewars profile see [Codewars](https://www.codewars.com/users/StalinYS).
-For GitHub profile see [GitHub](https://github.com/StalinYS).
+[Codewars](https://www.codewars.com/users/StalinYS).
+[GitHub](https://github.com/StalinYS).
 
 ### Contacts
 
-Facebook [Facebook](https://www.facebook.com/stalinskaya.yana)
-Instagram [Instagram](https://www.instagram.com/stalinskaiaiana/)
-LinkedIn [LinkedIn](https://www.linkedin.com/in/yana-stalinskaya-254750155/)
+[Facebook](https://www.facebook.com/stalinskaya.yana)
+[Instagram](https://www.instagram.com/stalinskaiaiana/)
+[LinkedIn](https://www.linkedin.com/in/yana-stalinskaya-254750155/)
