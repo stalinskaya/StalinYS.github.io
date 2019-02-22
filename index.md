@@ -22,6 +22,22 @@ I studied in the USA (Troy University) for half a year as an exchange student
 [Codewars](https://www.codewars.com/users/StalinYS).
 [GitHub](https://github.com/StalinYS).
 
+### Padawans Tasks
+[FancyCalc](https://github.com/StalinYS/FancyCalc)
+[PadawansTask1](https://github.com/StalinYS/PadawansTask1)
+[PadawansTask2](https://github.com/StalinYS/PadawansTask2)
+[PadawansTask3](https://github.com/StalinYS/PadawansTask3)
+[PadawansTask4](https://github.com/StalinYS/PadawansTask4)
+[PadawansTask5](https://github.com/StalinYS/PadawansTask5)
+[PadawansTask6](https://github.com/StalinYS/PadawansTask6)
+[PadawansTask7](https://github.com/StalinYS/PadawansTask7)
+[PadawansTask8](https://github.com/StalinYS/PadawansTask8)
+[PadawansTask9](https://github.com/StalinYS/PadawansTask9)
+[PadawansTask10](https://github.com/StalinYS/PadawansTask10)
+[PadawansTask11](https://github.com/StalinYS/PadawansTask11)
+[PadawansTask12](https://github.com/StalinYS/PadawansTask12)
+[PadawansTask13](https://github.com/StalinYS/PadawansTask8)
+
 ### Contacts
 
 [Facebook](https://www.facebook.com/stalinskaya.yana)
