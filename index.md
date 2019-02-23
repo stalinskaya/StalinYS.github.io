@@ -36,8 +36,9 @@ I studied in the USA (Troy University) for half a year as an exchange student
 10. [PadawansTask10](https://github.com/StalinYS/PadawansTask10)
 11. [PadawansTask11](https://github.com/StalinYS/PadawansTask11)
 12. [PadawansTask12](https://github.com/StalinYS/PadawansTask12)
-13. [PadawansTask13](https://github.com/StalinYS/PadawansTask8)
-14. [FancyCalc](https://github.com/StalinYS/FancyCalc)
+13. [PadawansTask13](https://github.com/StalinYS/PadawansTask13)
+14. [PadawansTask15](https://github.com/StalinYS/PadawansTask15)
+15. [FancyCalc](https://github.com/StalinYS/FancyCalc)
 
 ### Contacts
 
